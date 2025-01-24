@@ -12962,3 +12962,817 @@ un.
 2025-01-24 16:28:12.871 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
 2025-01-24 16:28:12.875 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
 2025-01-24 16:28:12.875 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:28:13.872 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:28:13.873 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:28:13.879 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:28:13.880 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:28:14.876 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:28:14.877 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:28:14.883 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:28:14.884 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:28:15.880 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:28:15.881 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:28:15.886 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:28:15.886 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:28:16.883 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:28:16.884 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:28:16.887 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:28:16.887 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:28:17.885 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:28:17.886 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:28:17.893 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:28:17.893 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:28:18.889 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:28:18.890 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:28:18.894 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:28:18.895 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:28:19.892 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:28:19.893 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:28:19.898 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:28:19.898 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:28:20.895 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:28:20.896 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:28:20.902 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:28:20.903 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:28:21.899 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:28:21.899 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:28:21.905 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:28:21.906 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:28:22.902 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:28:22.904 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:28:22.910 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:28:22.911 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:28:23.906 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:28:23.907 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:28:23.913 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:28:23.913 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:28:24.910 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:28:24.911 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:28:24.916 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:28:24.917 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:28:25.914 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:28:25.914 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:28:25.918 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:28:25.918 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:28:26.917 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:28:26.918 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:28:26.920 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:28:26.920 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:28:27.919 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:28:27.919 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:28:27.923 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:28:27.923 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:28:28.921 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:28:28.923 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:28:28.926 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:28:28.927 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:28:29.924 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:28:29.924 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:28:29.924 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:28:29.924 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:28:30.926 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:28:30.926 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:28:30.929 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:28:30.929 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:28:31.928 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:28:31.929 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:28:31.934 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:28:31.934 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:28:32.931 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:28:32.931 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:28:32.931 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:28:32.938 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:28:33.934 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:28:33.936 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:28:33.941 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:28:33.942 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:28:34.938 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:28:34.940 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:28:34.948 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:28:34.949 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:28:35.944 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:28:35.946 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:28:35.947 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:28:35.953 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:28:36.948 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:28:36.950 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:28:36.956 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:28:36.958 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:28:37.953 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:28:37.956 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:28:37.960 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:28:37.961 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:28:38.957 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:28:38.960 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:28:38.966 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:28:38.967 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:28:39.963 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:28:39.965 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:28:39.973 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:28:39.975 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:28:40.967 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:28:40.969 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:28:40.976 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:28:40.977 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:28:41.972 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:28:41.974 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:28:41.979 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:28:41.979 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:28:42.976 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:28:42.976 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:28:42.981 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:28:42.981 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:28:43.979 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:28:43.979 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:28:43.983 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:28:43.984 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:28:44.981 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:28:44.982 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:28:44.986 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:28:44.986 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:28:45.983 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:28:45.984 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:28:45.989 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:28:45.990 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:28:46.987 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:28:46.989 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:28:46.992 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:28:46.992 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:28:47.991 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:28:47.991 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:28:47.995 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:28:47.996 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:28:48.993 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:28:48.994 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:28:48.998 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:28:48.999 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:28:49.996 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:28:49.996 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:28:49.996 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:28:49.996 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:28:50.999 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:28:51.001 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:28:51.006 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:28:51.007 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:28:52.003 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:28:52.003 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:28:52.007 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:28:52.007 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:28:53.006 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:28:53.007 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:28:53.009 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:28:53.009 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:28:54.010 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:28:54.010 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:28:54.010 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:28:54.010 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:28:55.014 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:28:55.015 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:28:55.020 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:28:55.020 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:28:56.017 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:28:56.017 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:28:56.017 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:28:56.023 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:28:57.020 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:28:57.020 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:28:57.026 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:28:57.028 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:28:58.023 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:28:58.025 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:28:58.025 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:28:58.025 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:28:59.027 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:28:59.027 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:28:59.027 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:28:59.027 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:29:00.030 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:29:00.030 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:29:00.030 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:29:00.030 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:29:01.032 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:29:01.032 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:29:01.039 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:29:01.040 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:02.035 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:29:02.035 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:29:02.042 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:29:02.042 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:03.039 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:29:03.040 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:29:03.046 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:29:03.047 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:29:04.042 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:29:04.044 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:29:04.044 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:29:04.044 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:29:05.046 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:29:05.051 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:29:05.058 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:29:05.058 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:29:06.054 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:29:06.054 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:29:06.058 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:29:06.058 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:07.058 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:29:07.058 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:29:07.058 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:29:07.058 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:08.062 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:29:08.063 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:29:08.064 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:29:08.064 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:29:09.064 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:29:09.064 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:29:09.064 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:29:09.064 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:29:10.067 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:29:10.067 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:29:10.067 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:29:10.067 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:29:11.069 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:29:11.069 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:29:11.074 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:29:11.075 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:12.072 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:29:12.074 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:29:12.079 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:29:12.079 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:13.076 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:29:13.078 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:29:13.081 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:29:13.081 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:29:14.079 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:29:14.082 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:29:14.085 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:29:14.085 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:29:15.084 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:29:15.084 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:29:15.091 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:29:15.091 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:29:16.087 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:29:16.088 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:29:16.195 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:29:16.195 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:17.091 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:29:17.092 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:29:17.095 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:29:17.095 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:18.094 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:29:18.096 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:29:18.103 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:29:18.104 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:29:19.099 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:29:19.101 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:29:19.106 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:29:19.107 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:29:20.103 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:29:20.103 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:29:20.109 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:29:20.110 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:29:21.106 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:29:21.106 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:29:21.106 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:29:21.106 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:22.110 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:29:22.110 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:29:22.113 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:29:22.113 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:23.113 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:29:23.115 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:29:23.115 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:29:23.115 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:29:24.118 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:29:24.118 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:29:24.126 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:29:24.134 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:29:25.122 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:29:25.123 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:29:25.123 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:29:25.123 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:29:26.125 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:29:26.125 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:29:26.125 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:29:26.125 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:27.128 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:29:27.128 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:29:27.128 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:29:27.128 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:28.131 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:29:28.131 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:29:28.134 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:29:28.134 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:29:29.135 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:29:29.135 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:29:29.135 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:29:29.135 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:29:30.137 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:29:30.137 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:29:30.139 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:29:30.139 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:29:31.139 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:29:31.139 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:29:31.145 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:29:31.147 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:32.143 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:29:32.144 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:29:32.147 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:29:32.147 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:33.194 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:29:33.229 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:29:33.230 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:29:33.220 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:29:34.261 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:29:34.267 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:29:34.267 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:29:34.261 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:29:35.279 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:29:35.279 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:29:35.299 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:29:35.299 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:29:36.289 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:29:36.308 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:29:36.308 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:36.290 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:29:37.323 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:29:37.329 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:29:37.342 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:29:37.342 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:38.334 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:29:38.363 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:29:38.364 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:29:38.355 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:29:39.400 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:29:39.400 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:29:39.404 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:29:39.404 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:29:40.420 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:29:40.429 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:29:40.453 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:29:40.453 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:29:41.438 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:29:41.440 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:29:41.447 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:29:41.450 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:42.442 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:29:42.567 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:29:42.570 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:29:42.576 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:43.574 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:29:43.574 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:29:43.574 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:29:43.574 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:29:44.578 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:29:44.578 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:29:44.586 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:29:44.586 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:29:45.582 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:29:45.582 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:29:45.588 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:29:45.592 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:29:46.586 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:29:46.586 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:29:46.590 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:29:46.590 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:47.590 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:29:47.590 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:29:47.597 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:29:47.598 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:48.593 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:29:48.593 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:29:48.593 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:29:48.593 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:29:49.596 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:29:49.596 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:29:49.596 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:29:49.596 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:29:50.598 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:29:50.598 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:29:50.603 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:29:50.603 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:29:51.601 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:29:51.601 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:29:51.605 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:29:51.605 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:52.604 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:29:52.604 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:29:52.608 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:29:52.608 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:53.606 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:29:53.606 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:29:53.609 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:29:53.609 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:29:54.609 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:29:54.609 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:29:54.609 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:29:54.609 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:29:55.612 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:29:55.613 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:29:55.613 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:29:55.613 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:29:56.616 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:29:56.616 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:29:56.621 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:29:56.621 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:57.620 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:29:57.620 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:29:57.620 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:29:57.628 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:29:58.623 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:29:58.623 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:29:58.623 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:29:58.623 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:29:59.627 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:29:59.628 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:29:59.631 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:29:59.632 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:30:00.629 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:30:00.629 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:30:00.629 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:30:00.629 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:30:01.632 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:30:01.633 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:30:01.635 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:30:01.635 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:02.635 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:30:02.636 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:30:02.641 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:30:02.641 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:03.638 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:30:03.638 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:30:03.638 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:30:03.638 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:30:04.642 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:30:04.642 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:30:04.642 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:30:04.642 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:30:05.645 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:30:05.645 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:30:05.645 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:30:05.645 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:30:06.648 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:30:06.648 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:30:06.656 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:30:06.656 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:07.651 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:30:07.651 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:30:07.656 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:30:07.656 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:08.655 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:30:08.655 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:30:08.659 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:30:08.659 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:30:09.658 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:30:09.660 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:30:09.660 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:30:09.660 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:30:10.662 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:30:10.663 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:30:10.666 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:30:10.667 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:30:11.665 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:30:11.665 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:30:11.670 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:30:11.670 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:12.668 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:30:12.668 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:30:12.668 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:30:12.673 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:13.671 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:30:13.671 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:30:13.676 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:30:13.679 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:30:14.675 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:30:14.675 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:30:14.678 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:30:14.678 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:30:15.676 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:30:15.676 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:30:15.680 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:30:15.680 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:30:16.679 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:30:16.679 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:30:16.681 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:30:16.681 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:17.681 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:30:17.681 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:30:17.685 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:30:17.685 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:18.684 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:30:18.684 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:30:18.690 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:30:18.691 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:30:19.687 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:30:19.687 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:30:19.687 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:30:19.687 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:30:20.689 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:30:20.689 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:30:20.689 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:30:20.689 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:30:21.693 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:30:21.693 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:30:21.697 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:30:21.697 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:22.696 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:30:22.697 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:30:22.701 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:30:22.702 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:23.699 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:30:23.700 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:30:23.700 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:30:23.700 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:30:24.703 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:30:24.703 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:30:24.703 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:30:24.703 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:30:25.705 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:30:25.705 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:30:25.709 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:30:25.709 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:30:26.709 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:30:26.709 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:30:26.710 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:30:26.710 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:27.711 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:30:27.712 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:30:27.712 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:30:27.712 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:28.714 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:30:28.714 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:30:28.714 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:30:28.714 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:30:29.718 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:30:29.718 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:30:29.724 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:30:29.725 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:30:30.721 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:30:30.721 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:30:30.721 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:30:30.721 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:30:31.724 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:30:31.725 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:30:31.725 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:30:31.725 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:32.726 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:30:32.726 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:30:32.729 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:30:32.729 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:33.730 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:30:33.730 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:30:33.730 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:30:33.730 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:30:34.733 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:30:34.733 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:30:34.733 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:30:34.733 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:30:35.736 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:30:35.736 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:30:35.736 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:30:35.736 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:30:36.739 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:30:36.739 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:30:36.743 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:30:36.743 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:37.742 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:30:37.742 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:30:37.744 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:30:37.744 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:38.746 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:30:38.746 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:30:38.748 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:30:38.748 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:30:39.750 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:30:39.750 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:30:39.750 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:30:39.750 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:30:40.753 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:30:40.753 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:30:40.753 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:30:40.753 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:30:41.756 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:30:41.756 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:30:41.756 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:30:41.756 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:42.759 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:30:42.759 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:30:42.762 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:30:42.762 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:43.761 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:30:43.762 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:30:43.768 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:30:43.768 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:30:44.765 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:30:44.765 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:30:44.769 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:30:44.769 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:30:45.767 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:30:45.767 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:30:45.770 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:30:45.770 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:30:46.770 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:30:46.770 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:30:46.772 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:30:46.772 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:47.772 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:30:47.773 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:30:47.773 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:30:47.773 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:48.776 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:30:48.776 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:30:48.782 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:30:48.784 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:30:49.780 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:30:49.780 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:30:49.780 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:30:49.780 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:30:50.784 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:30:50.784 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:30:50.784 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:30:50.784 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:30:51.787 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:30:51.787 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:30:51.787 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:30:51.787 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:52.791 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:30:52.792 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:30:52.792 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:30:52.792 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:53.793 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:30:53.793 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:30:53.793 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:30:53.793 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:30:54.797 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:30:54.797 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:30:54.797 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:30:54.802 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:30:55.799 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:30:55.802 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:30:55.802 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:30:55.802 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:30:56.804 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:30:56.805 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:30:56.808 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:30:56.819 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:57.807 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:30:57.807 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:30:57.807 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:30:57.807 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:30:58.811 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:30:58.814 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:30:58.817 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:30:58.818 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:30:59.815 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:30:59.815 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:30:59.815 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:30:59.815 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:31:00.818 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:31:00.818 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:31:00.818 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:31:00.818 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:31:01.821 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:31:01.821 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:31:01.821 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:31:01.827 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:31:02.824 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:31:02.826 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:31:02.826 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:31:02.826 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:31:03.828 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:31:03.828 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:31:03.828 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:31:03.828 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:31:04.832 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:31:04.832 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:31:04.832 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:31:04.832 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:31:05.833 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:31:05.833 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:31:05.833 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:31:05.833 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:31:06.837 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:31:06.837 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:31:06.837 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:31:06.837 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:31:07.840 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:31:07.840 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:31:07.840 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:31:07.840 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:31:08.842 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:31:08.844 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:31:08.846 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:31:08.846 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:31:09.849 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:31:09.849 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:31:09.849 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:31:09.849 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:31:10.853 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:31:10.853 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:31:10.853 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:31:10.853 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:31:11.857 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:31:11.857 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:31:11.862 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:31:11.862 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:31:12.860 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:31:12.861 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:31:12.863 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:31:12.863 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:31:13.862 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:31:13.862 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:31:13.862 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:31:13.862 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:31:14.869 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:31:14.871 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:31:14.874 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:31:14.874 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:31:15.872 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:31:15.872 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:31:15.872 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:31:15.872 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:31:16.876 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:31:16.876 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:31:16.880 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:31:16.880 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:31:17.880 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:31:17.881 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:31:17.881 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:31:17.881 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:31:18.882 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:31:18.882 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:31:18.882 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:31:18.882 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:31:19.885 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:31:19.885 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:31:19.885 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:31:19.885 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:31:20.889 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:31:20.890 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:31:20.892 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:31:20.897 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:31:21.893 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:31:21.893 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:31:21.899 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:31:21.899 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:31:22.896 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:31:22.898 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:31:23.015 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:31:23.016 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:31:23.900 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:31:23.900 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:31:23.900 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:31:23.900 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:31:24.904 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:31:24.904 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:31:24.904 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:31:24.904 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:31:25.908 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:31:25.908 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:31:25.919 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:31:25.920 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:31:26.911 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:31:26.911 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:31:26.916 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:31:26.916 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:31:27.916 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:31:27.916 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:31:27.916 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:31:27.916 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:31:28.919 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:31:28.919 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:31:28.919 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:31:28.919 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:31:29.922 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:31:29.922 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:31:29.922 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:31:29.922 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:31:30.925 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:31:30.925 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:31:30.932 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:31:30.933 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:31:31.929 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:31:31.929 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:31:31.932 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:31:31.932 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:31:32.932 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:31:32.933 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
+2025-01-24 16:31:32.934 | INFO     | __main__:process_message:58 - Processing message: Arteta-ball is unstoppable!
+2025-01-24 16:31:32.934 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:31:33.935 | INFO     | __main__:generate_messages:77 - Generated buzz: North Londn is red!
+2025-01-24 16:31:33.935 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': North Londn is red!
+2025-01-24 16:31:33.935 | INFO     | __main__:process_message:58 - Processing message: North Londn is red!
+2025-01-24 16:31:33.935 | INFO     | __main__:process_message:64 - PRIDE: North London is red! 🔴
+2025-01-24 16:31:34.938 | INFO     | __main__:generate_messages:77 - Generated buzz: Saka scores another goal
+2025-01-24 16:31:34.938 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Saka scores another goal
+2025-01-24 16:31:34.938 | INFO     | __main__:process_message:58 - Processing message: Saka scores another goal
+2025-01-24 16:31:34.938 | INFO     | __main__:process_message:60 - ALERT: Arsenal scored a goal! ⚽
+2025-01-24 16:31:35.940 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal win 3-0!.
+2025-01-24 16:31:35.940 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal win 3-0!.
+2025-01-24 16:31:35.940 | INFO     | __main__:process_message:58 - Processing message: Arsenal win 3-0!.
+2025-01-24 16:31:35.948 | INFO     | __main__:process_message:62 - CHEER: Arsenal wins the game! 🏆
+2025-01-24 16:31:36.943 | INFO     | __main__:generate_messages:77 - Generated buzz: Arsenal top of the league again!
+2025-01-24 16:31:36.943 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arsenal top of the league again!
+2025-01-24 16:31:36.950 | INFO     | __main__:process_message:58 - Processing message: Arsenal top of the league again!
+2025-01-24 16:31:36.951 | INFO     | __main__:process_message:66 - General message logged.
+2025-01-24 16:31:37.948 | INFO     | __main__:generate_messages:77 - Generated buzz: Arteta-ball is unstoppable!
+2025-01-24 16:31:37.950 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Arteta-ball is unstoppable!
