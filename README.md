@@ -1,4 +1,4 @@
-# Arsenal-Themed Streaming Data Project
+# Arsenal-Themed Module 2 Assignment 
 
 ## Overview
 This project uses Apache Kafka to demonstrate real-time data streaming with an Arsenal Football Club theme.  
